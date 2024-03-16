@@ -59,3 +59,19 @@ h3 {
 .sidebar h3{
     margin-left: 30px;
 }
+
+.sidebar p{
+    margin-left: 30px;
+    background-color: aqua;
+}
+
+.footer {
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.footer p{
+    margin-top: 20px;
+}
